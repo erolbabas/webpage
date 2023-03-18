@@ -1,0 +1,114 @@
+/* For Fonts  */
+
+/* End for Fonts */
+
+.container-fluid {
+    background-color: #332E33;
+    padding: 0.5rem;
+    color: aliceblue;
+    font-size: 1rem;
+    width: 100%;
+}
+
+.nav-item {
+    color: aliceblue;
+}
+
+.nav-link,
+.active {
+    color: aliceblue;
+}
+
+.card {
+    margin-top: 1rem;
+    transition: 0.4s ease;
+}
+
+.card:hover {
+    -webkit-transform: scale(0.9);
+    -ms-transform: scale(0.9);
+    transform: scale(0.9);
+    transform: 0.4s ease;
+
+}
+
+.card.img {
+    height: 100vh;
+}
+
+.nav-online-books {
+    font-family: "Sofia", sans-serif;
+    font-size: 1rem;
+    color: aliceblue;
+}
+
+.card-img-top {
+
+    height: 100%;
+}
+
+footer {
+    background-color: #332E33;
+    text-align: center;
+    margin-top: 5.5rem;
+    color: aliceblue;
+}
+
+.footer-row {
+    text-align: center;
+    margin-left: 18rem;
+}
+
+.top-header-message {
+    text-align: center;
+    margin: 4rem;
+}
+
+.checkout-form {
+    border-style: solid;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+    text-align: center;
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+    margin-right: 20rem;
+    margin-left: 20rem;
+}
+
+
+.name-form,
+.address-form,
+.region,
+.payment-method {
+    margin: 1rem;
+}
+
+.name-from {
+    margin-top: 1rem;
+}
+
+.address-from {
+    margin-right: 1rem;
+}
+
+.region {
+    margin-right: 5.5rem;
+}
+
+.contact-num-form {
+    margin-right: 5rem;
+}
+
+#btn-place-order {
+    margin-right: 25rem;
+    margin-top: 2rem;
+}
+
+
+
+
+/* .name-form{
+    
+} */
